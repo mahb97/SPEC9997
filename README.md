@@ -9,3 +9,4 @@ Jennifer Hu, Ethan Gotlieb Wilcox, Siyuan Song, Kyle Mahowald, Roger P. Levy; Wh
 
 [A Probabilistic Earley Parser as a Psycholinguistic Model](https://aclanthology.org/N01-1021.pdf), John Hale, Department of Cognitive Science, The Johns Hopkins University
 
+[Jarke, Juliane, et al., editors. Algorithmic Regimes: Methods, Interactions, and Politics. Amsterdam University Press, 2024. JSTOR, https://doi.org/10.2307/jj.11895528. Accessed 20 Sept. 2026.](https://www.jstor.org/content/oa_book_edited/jj.11895528)
