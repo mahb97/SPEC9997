@@ -16,4 +16,6 @@ ISSN 0896-6273, [https://doi.org/10.1016/j.neuron.2016.12.041.](https://www.scie
 
 [**John Hale: Complexity Metrics for Surface Structure Parsing**](https://www.youtube.com/watch?v=FE66YItXHCU)
 
+Li J, Bhattasali S, Zhang S, Franzluebbers B, Luh WM, Spreng RN, Brennan JR, Yang Y, Pallier C, Hale J. *Le Petit Prince multilingual naturalistic fMRI corpus.* Sci Data. 2022 Aug 29;9(1):530. [doi: 10.1038/s41597-022-01625-7.](https://pmc.ncbi.nlm.nih.gov/articles/PMC9424229/)
+
 [**David Poeppel on Language and the Brain - Oxford University Linguistics Society**](https://www.youtube.com/watch?v=5uOrTzL8dnI)
