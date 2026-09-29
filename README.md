@@ -19,3 +19,5 @@ ISSN 0896-6273, [https://doi.org/10.1016/j.neuron.2016.12.041.](https://www.scie
 Li J, Bhattasali S, Zhang S, Franzluebbers B, Luh WM, Spreng RN, Brennan JR, Yang Y, Pallier C, Hale J. *Le Petit Prince multilingual naturalistic fMRI corpus.* Sci Data. 2022 Aug 29;9(1):530. [doi: 10.1038/s41597-022-01625-7.](https://pmc.ncbi.nlm.nih.gov/articles/PMC9424229/)
 
 [**David Poeppel on Language and the Brain - Oxford University Linguistics Society**](https://www.youtube.com/watch?v=5uOrTzL8dnI)
+
+Sułkowski, Ł., Ratajczak, S., & Szczepańska-Woszczyna, K. (2026). Research Ethics, Integrity, and Transparency (1st ed.). Routledge. [https://doi-org.tudublin.idm.oclc.org/10.4324/9781003790280](https://www-taylorfrancis-com.tudublin.idm.oclc.org/books/oa-mono/10.4324/9781003790280/research-ethics-integrity-transparency-łukasz-sułkowski-sabina-ratajczak-katarzyna-szczepańska-woszczyna)
