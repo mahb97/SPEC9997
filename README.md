@@ -21,3 +21,5 @@ Li J, Bhattasali S, Zhang S, Franzluebbers B, Luh WM, Spreng RN, Brennan JR, Yan
 [**David Poeppel on Language and the Brain - Oxford University Linguistics Society**](https://www.youtube.com/watch?v=5uOrTzL8dnI)
 
 Sułkowski, Ł., Ratajczak, S., & Szczepańska-Woszczyna, K. (2026). Research Ethics, Integrity, and Transparency (1st ed.). Routledge. [https://doi-org.tudublin.idm.oclc.org/10.4324/9781003790280](https://www-taylorfrancis-com.tudublin.idm.oclc.org/books/oa-mono/10.4324/9781003790280/research-ethics-integrity-transparency-łukasz-sułkowski-sabina-ratajczak-katarzyna-szczepańska-woszczyna)
+
+Zhan, T. (2026). Deep-Learning-Assisted Statistical Methods with Examples in R (1st ed.). Chapman and Hall/CRC. [https://doi-org.tudublin.idm.oclc.org/10.1201/9781003681489](https://www-taylorfrancis-com.tudublin.idm.oclc.org/books/oa-mono/10.1201/9781003681489/deep-learning-assisted-statistical-methods-examples-tianyu-zhan)
