@@ -23,3 +23,7 @@ Li J, Bhattasali S, Zhang S, Franzluebbers B, Luh WM, Spreng RN, Brennan JR, Yan
 Sułkowski, Ł., Ratajczak, S., & Szczepańska-Woszczyna, K. (2026). Research Ethics, Integrity, and Transparency (1st ed.). Routledge. [https://doi-org.tudublin.idm.oclc.org/10.4324/9781003790280](https://www-taylorfrancis-com.tudublin.idm.oclc.org/books/oa-mono/10.4324/9781003790280/research-ethics-integrity-transparency-łukasz-sułkowski-sabina-ratajczak-katarzyna-szczepańska-woszczyna)
 
 Zhan, T. (2026). Deep-Learning-Assisted Statistical Methods with Examples in R (1st ed.). Chapman and Hall/CRC. [https://doi-org.tudublin.idm.oclc.org/10.1201/9781003681489](https://www-taylorfrancis-com.tudublin.idm.oclc.org/books/oa-mono/10.1201/9781003681489/deep-learning-assisted-statistical-methods-examples-tianyu-zhan)
+
+[Computational Hermeneutics: Evaluating generative AI as a cultural technology](https://arxiv.org/abs/2604.16403)
+
+[Scorecard of AI Benchmark Quality](https://aclanthology.org/2026.evaleval-1.25.pdf), Ayrton San Joaquin, Rokas Gipiškis1, Ze Shen Chin1, AI Standards Lab
