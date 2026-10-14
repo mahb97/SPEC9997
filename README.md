@@ -29,3 +29,5 @@ Zhan, T. (2026). Deep-Learning-Assisted Statistical Methods with Examples in R (
 [Scorecard of AI Benchmark Quality](https://aclanthology.org/2026.evaleval-1.25.pdf), Ayrton San Joaquin, Rokas Gipiškis1, Ze Shen Chin1, AI Standards Lab
 
 Keynote Lecture: David Poeppel - CCN 2025, Cognitive Computational Neuroscience,[“Rhythms and Algorithms: From Vibrations in the Ear to Abstractions in the Brain”](https://www.youtube.com/watch?v=kV0e2L3_kwk)
+
+[On critiques of ML](https://cs229.stanford.edu/materials/critiques-ml.pdf) Stanford slides 
