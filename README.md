@@ -30,6 +30,8 @@ Zhan, T. (2026). Deep-Learning-Assisted Statistical Methods with Examples in R (
 
 Keynote Lecture: David Poeppel - CCN 2025, Cognitive Computational Neuroscience,[“Rhythms and Algorithms: From Vibrations in the Ear to Abstractions in the Brain”](https://www.youtube.com/watch?v=kV0e2L3_kwk)
 
+[Ambient Meaning: Mood, Vibe, System](https://dash.harvard.edu/server/api/core/bitstreams/5ed28f9c-2f2a-475d-a533-4543e40399c9/content) Peli Grietzer
+
 [On critiques of ML](https://cs229.stanford.edu/materials/critiques-ml.pdf) Stanford slides 
 
 [Jixing Li & John Hale | Leipzig Lectures on Language—Combinatorics 2021](https://www.youtube.com/watch?v=FQMacONDgbA)
