@@ -37,3 +37,9 @@ Keynote Lecture: David Poeppel - CCN 2025, Cognitive Computational Neuroscience,
 [On critiques of ML](https://cs229.stanford.edu/materials/critiques-ml.pdf) Stanford slides 
 
 [Jixing Li & John Hale | Leipzig Lectures on Language—Combinatorics 2021](https://www.youtube.com/watch?v=FQMacONDgbA)
+
+Li, Victoria. 2026. [Conversational AI as Information Mediator: From Perception to Presentation.](https://dash.harvard.edu/entities/publication/dc37c1a5-b0eb-41a1-b596-58cc3b64b77c) Bachelors Thesis, Harvard University Engineering and Applied Sciences.
+
+[No Free Lunch for Hungry Machines: A Systems Investigation of Reinforcement Learning](https://dash.harvard.edu/entities/publication/0815a9a8-dceb-4c1a-a524-0fd909cf4854) Hou, Cathy. 2026. No Free Lunch for Hungry Machines: A Systems Investigation of Reinforcement Learning. Bachelors Thesis, Harvard University Engineering and Applied Sciences.
+
+
