@@ -16,6 +16,8 @@ Jennifer Hu, Ethan Gotlieb Wilcox, Siyuan Song, Kyle Mahowald, Roger P. Levy; Wh
 John W. Krakauer, Asif A. Ghazanfar, Alex Gomez-Marin, Malcolm A. MacIver, David Poeppel, *Neuroscience Needs Behavior: Correcting a Reductionist Bias,* Neuron, Volume 93, Issue 3, 2017, Pages 480-490,
 ISSN 0896-6273, [https://doi.org/10.1016/j.neuron.2016.12.041.](https://www.sciencedirect.com/science/article/pii/S0896627316310406?fr=RR-2&ref=pdf_download&rr=a3ec9a2dcf201b79)
 
+[Position: An Inner Interpretability Framework for AI, Inspired by Lessons from Cognitive Neuroscience](https://arxiv.org/pdf/2406.01352v1)
+
 [**John Hale: Complexity Metrics for Surface Structure Parsing**](https://www.youtube.com/watch?v=FE66YItXHCU)
 
 Li J, Bhattasali S, Zhang S, Franzluebbers B, Luh WM, Spreng RN, Brennan JR, Yang Y, Pallier C, Hale J. *Le Petit Prince multilingual naturalistic fMRI corpus.* Sci Data. 2022 Aug 29;9(1):530. [doi: 10.1038/s41597-022-01625-7.](https://pmc.ncbi.nlm.nih.gov/articles/PMC9424229/)
