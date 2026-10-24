@@ -45,3 +45,5 @@ Li, Victoria. 2026. [Conversational AI as Information Mediator: From Perception 
 [No Free Lunch for Hungry Machines: A Systems Investigation of Reinforcement Learning](https://dash.harvard.edu/entities/publication/0815a9a8-dceb-4c1a-a524-0fd909cf4854) Hou, Cathy. 2026. No Free Lunch for Hungry Machines: A Systems Investigation of Reinforcement Learning. Bachelors Thesis, Harvard University Engineering and Applied Sciences.
 
 Simon Colreavy-Donnelly, Stuart O’Connor, Elmina Homapour, [I-Ulysses: A technical report,](https://www.sciencedirect.com/science/article/abs/pii/S187595211930031X) Entertainment Computing, Volume 32, 2019.
+
+[Word Representations via Gaussian Embedding](https://arxiv.org/abs/1412.6623) Luke Vilnis and Andrew McCallum, 2015
