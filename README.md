@@ -46,6 +46,8 @@ Li, Victoria. 2026. [Conversational AI as Information Mediator: From Perception 
 
 Simon Colreavy-Donnelly, Stuart O’Connor, Elmina Homapour, [I-Ulysses: A technical report,](https://www.sciencedirect.com/science/article/abs/pii/S187595211930031X) Entertainment Computing, Volume 32, 2019.
 
+Groden, Michael. “Flying by the Net: James Joyce in Cyberspace (1).” James Joyce Quarterly 35, no. 1 (1997): 129–47. http://www.jstor.org/stable/25473873. 
+
 [Word Representations via Gaussian Embedding](https://arxiv.org/abs/1412.6623) Luke Vilnis and Andrew McCallum, 2015
 
 O'Sullivan, J. 2025. “ Blockchain for the Arts and Humanities.” Future Humanities 4: 1–10. [https://doi.org/10.1002/fhu2.70020.](https://onlinelibrary.wiley.com/doi/10.1002/fhu2.70020)
