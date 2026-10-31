@@ -51,3 +51,5 @@ Groden, Michael. “Flying by the Net: James Joyce in Cyberspace (1).” James J
 [Word Representations via Gaussian Embedding](https://arxiv.org/abs/1412.6623) Luke Vilnis and Andrew McCallum, 2015
 
 O'Sullivan, J. 2025. “ Blockchain for the Arts and Humanities.” Future Humanities 4: 1–10. [https://doi.org/10.1002/fhu2.70020.](https://onlinelibrary.wiley.com/doi/10.1002/fhu2.70020)
+
+[Generative Artificial Intelligence in Qualitative Data Analysis: Analyzing — Or Just Chatting?](https://journals-sagepub-com.tudublin.idm.oclc.org/doi/pdf/10.1177/10944281251377154)
