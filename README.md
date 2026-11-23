@@ -53,3 +53,7 @@ Groden, Michael. “Flying by the Net: James Joyce in Cyberspace (1).” James J
 O'Sullivan, J. 2025. “ Blockchain for the Arts and Humanities.” Future Humanities 4: 1–10. [https://doi.org/10.1002/fhu2.70020.](https://onlinelibrary.wiley.com/doi/10.1002/fhu2.70020)
 
 [Generative Artificial Intelligence in Qualitative Data Analysis: Analyzing — Or Just Chatting?](https://journals-sagepub-com.tudublin.idm.oclc.org/doi/pdf/10.1177/10944281251377154)
+
+Radovanović, M., Nanopoulos, A., & Ivanović, M.D. (2010). Hubs in Space: Popular Nearest Neighbors in High-Dimensional Data. J. Mach. Learn. Res., 11, 2487-2531.
+
+John T. Hale, Luca Campanelli, Jixing Li, Shohini Bhattasali, Christophe Pallier, Jonathan R. Brennan. 2022. Neurocomputational Models of Language Processing. Annual Review of Linguistics 8:427-446. https://doi.org/10.1146/annurev-linguistics-051421-020803
