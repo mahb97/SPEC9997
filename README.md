@@ -57,3 +57,12 @@ O'Sullivan, J. 2025. “ Blockchain for the Arts and Humanities.” Future Human
 Radovanović, M., Nanopoulos, A., & Ivanović, M.D. (2010). Hubs in Space: Popular Nearest Neighbors in High-Dimensional Data. J. Mach. Learn. Res., 11, 2487-2531.
 
 John T. Hale, Luca Campanelli, Jixing Li, Shohini Bhattasali, Christophe Pallier, Jonathan R. Brennan. 2022. Neurocomputational Models of Language Processing. Annual Review of Linguistics 8:427-446. https://doi.org/10.1146/annurev-linguistics-051421-020803
+
+Ayaz, Amreen, Forming a Consciousness: Cognitive Linguistics and Psychoanalytic Theory in Joyce's Early Portrait of Stephen (December 08, 2025). Available at SSRN: https://ssrn.com/abstract=6078426 or http://dx.doi.org/10.2139/ssrn.6078426
+
+Sylvain Belluc. Ulysses, Order, and Reality, or Joyce’s Quest for Syntactic Iconicity. Across the Waters: XXIX
+International James Joyce Symposium, The International James Joyce Foundation; University of Glasgow, Jun
+2024, Glasgow (Ecosse), United Kingdom. ⟨hal-04859940⟩
+
+Alonso-Giráldez, J. M. (2020). The Mental Construction of Reality in James Joyce. Oceánide, 13, 69-77.
+
